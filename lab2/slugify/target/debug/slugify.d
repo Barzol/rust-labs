@@ -1,0 +1,1 @@
+C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\slugify\target\debug\slugify.exe: C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\slugify\src\main.rs C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\slugify\src\table.rs

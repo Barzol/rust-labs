@@ -1,0 +1,1 @@
+C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\battleships\target\debug\battleships.exe: C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\battleships\src\main.rs

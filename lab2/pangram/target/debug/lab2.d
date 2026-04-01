@@ -1,0 +1,1 @@
+C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\target\debug\lab2.exe: C:\Users\david_jppxf8k\Desktop\Studio\SEMESTRE\ 2\PROGRAMMAZIONE\ DI\ SISTEMA\rust\labs\lab2\src\main.rs
