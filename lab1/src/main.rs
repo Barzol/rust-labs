@@ -7,7 +7,7 @@ use std::process;
  * Commands :
  * cargo run -- data.csv
  * 
- * cargo run -- data.csv head 5
+ * cargo run -- data.csv --head 5
  */
 
 
